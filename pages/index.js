@@ -9,9 +9,9 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I'm Triistam</p>
+        <p>I`m Triistam</p>
         <p>
-          17y.o. coder from Uzbekistan. I'm currently learning typescript for
+          17y.o. coder from Uzbekistan. I`m currently learning typescript for
           web development!
         </p>
       </section>
